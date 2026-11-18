@@ -1,0 +1,62 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Cuánto gana un chef en un superyate",
+   "sub": "Sueldos reales 2026 · y la letra chica"
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "kicker": "Spoiler",
+   "title": "Más que en tu restaurante.",
+   "text": "Pero no por las razones que creés. Deslizá."
+  },
+  {
+   "type": "stat",
+   "kicker": "Sous chef",
+   "big": "€4–6k",
+   "text": "al mes, en barcos de más de 50 metros.",
+   "src": "Guías salariales de agencias de tripulación 2025-2026. Orientativo: varía según barco y experiencia."
+  },
+  {
+   "type": "stat",
+   "kicker": "Sole chef · barco chico",
+   "big": "€4,5–7,5k",
+   "text": "al mes. Único chef a bordo: huéspedes y tripulación.",
+   "src": "Guías salariales de agencias de tripulación 2025-2026. Orientativo: varía según barco y experiencia."
+  },
+  {
+   "type": "stat",
+   "kicker": "Chef · 40 a 60 metros",
+   "big": "€6–9k",
+   "text": "al mes.",
+   "src": "Guías salariales de agencias de tripulación 2025-2026. Orientativo: varía según barco y experiencia."
+  },
+  {
+   "type": "stat",
+   "kicker": "Head chef · 60 m+",
+   "big": "€7–14k",
+   "text": "al mes. Algunos cobran más que el capitán.",
+   "src": "Guías salariales de agencias de tripulación 2025-2026. Orientativo: varía según barco y experiencia."
+  },
+  {
+   "type": "text",
+   "kicker": "Lo que cambia todo",
+   "title": "No pagás alquiler ni comida.",
+   "text": "Por eso un chef a bordo puede ahorrar en un año lo que en tierra le lleva cinco."
+  },
+  {
+   "type": "text",
+   "kicker": "La letra chica",
+   "title": "No es para todos.",
+   "text": "Vivís donde trabajás. Semanas sin día libre en temporada. Lejos de tu familia. Una galley chica y un barco que se mueve."
+  },
+  {
+   "type": "cta",
+   "title": "¿Querés saber cómo entrar?",
+   "text": "Te mando gratis la guía con los primeros pasos reales: papeles, presupuesto y qué buscan las agencias.",
+   "pill": "Comentá YATE"
+  }
+ ]
+}

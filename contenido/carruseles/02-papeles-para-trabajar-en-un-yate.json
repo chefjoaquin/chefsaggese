@@ -1,0 +1,62 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "title": "Los papeles para trabajar en un yate",
+   "sub": "En el orden correcto (y te ahorra plata)"
+  },
+  {
+   "type": "text",
+   "theme": "dark",
+   "kicker": "El error más común",
+   "title": "Pagar todo y después descubrir que no pasás el médico.",
+   "text": ""
+  },
+  {
+   "type": "stat",
+   "kicker": "Paso 1",
+   "big": "ENG1",
+   "text": "El certificado médico. Siempre primero. Aprox. 100-200 €.",
+   "src": "Precios orientativos 2025-2026 (Palma/Antibes). Confirmá siempre con el centro y el consulado."
+  },
+  {
+   "type": "stat",
+   "kicker": "Paso 2",
+   "big": "STCW",
+   "text": "Seguridad básica: 5 días. Supervivencia, incendios, primeros auxilios. Aprox. 1.000-1.150 €.",
+   "src": "Precios orientativos 2025-2026 (Palma/Antibes). Confirmá siempre con el centro y el consulado."
+  },
+  {
+   "type": "stat",
+   "kicker": "Paso 3",
+   "big": "Higiene",
+   "text": "Food Hygiene Level 2. Corto y barato.",
+   "src": "Precios orientativos 2025-2026 (Palma/Antibes). Confirmá siempre con el centro y el consulado."
+  },
+  {
+   "type": "stat",
+   "kicker": "Paso 4 · si vas a EE. UU. o al Caribe",
+   "big": "B1/B2",
+   "text": "Visado que se tramita en el consulado de tu país.",
+   "src": "Precios orientativos 2025-2026 (Palma/Antibes). Confirmá siempre con el centro y el consulado."
+  },
+  {
+   "type": "text",
+   "kicker": "Más adelante",
+   "title": "Ship's Cook Certificate",
+   "text": "Obligatorio en yates de chárter grandes. No lo necesitás para tu primer barco."
+  },
+  {
+   "type": "text",
+   "kicker": "Presupuesto real",
+   "title": "3.000 – 5.000 €",
+   "text": "Certificados + vuelo + 4 a 8 semanas en el puerto buscando trabajo."
+  },
+  {
+   "type": "cta",
+   "title": "Guardalo para cuando arranques.",
+   "text": "Y si querés la guía completa en PDF, gratis:",
+   "pill": "Comentá YATE"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Tu primer yate — Guía gratis de Chef Joaquín</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,500&family=Inter:wght@400;500;600;700&display=swap');
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+:root { --ink:#0b0b0c; --gold:#c9a24d; --cream:#f4efe6; --muted:#5d5a55; }
+body { font-family: Inter, sans-serif; color: var(--ink); font-size: 11.5pt; line-height: 1.55; }
+.page { width: 210mm; height: 297mm; padding: 22mm 20mm; position: relative; page-break-after: always; overflow: hidden; }
+.dark { background: var(--ink); color: var(--cream); }
+.kicker { font-size: 9pt; letter-spacing: .3em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
+h1 { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 54pt; line-height: 1.02; margin-top: 70mm; }
+h2 { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 26pt; line-height: 1.1; margin: 6mm 0 6mm; }
+h3 { font-size: 12pt; font-weight: 700; margin: 6mm 0 2mm; }
+.sub { font-family: 'Playfair Display', serif; font-style: italic; font-size: 18pt; color: var(--gold); margin-top: 6mm; }
+.frame { position: absolute; inset: 10mm; border: 1px solid rgba(201,162,77,.55); pointer-events: none; }
+.foot { position: absolute; left: 20mm; right: 20mm; bottom: 16mm; display: flex; justify-content: space-between; font-size: 8.5pt; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); }
+.dark .foot { color: rgba(244,239,230,.6); }
+p { margin-bottom: 3mm; }
+.lead { font-size: 13pt; }
+table { width: 100%; border-collapse: collapse; margin: 4mm 0; font-size: 10.5pt; }
+th, td { text-align: left; padding: 2.4mm 3mm; border-bottom: 1px solid #e4dccb; }
+th { font-size: 8.5pt; letter-spacing: .15em; text-transform: uppercase; color: var(--muted); }
+td.n { text-align: right; white-space: nowrap; font-weight: 600; }
+tr.total td { border-top: 2px solid var(--gold); border-bottom: none; font-weight: 700; }
+.check { list-style: none; }
+.check li { padding: 2.2mm 0 2.2mm 9mm; position: relative; border-bottom: 1px dashed #e4dccb; }
+.check li::before { content: ''; position: absolute; left: 0; top: 3mm; width: 4.5mm; height: 4.5mm; border: 1.5px solid var(--gold); border-radius: 1mm; }
+.steps { counter-reset: s; list-style: none; }
+.steps li { counter-increment: s; padding: 2.5mm 0 2.5mm 12mm; position: relative; }
+.steps li::before { content: counter(s); position: absolute; left: 0; top: 1.5mm; width: 8mm; height: 8mm; border-radius: 50%; background: var(--gold); color: var(--ink); font-weight: 700; display: grid; place-items: center; font-size: 10pt; }
+.note { font-size: 9pt; color: var(--muted); margin-top: 4mm; }
+.quote { font-family: 'Playfair Display', serif; font-style: italic; font-size: 17pt; line-height: 1.35; border-left: 3px solid var(--gold); padding-left: 6mm; margin: 8mm 0; }
+.cta { margin-top: 10mm; padding: 8mm; border: 1.5px solid var(--gold); }
+.cta strong { color: var(--gold); }
+.big { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 40pt; color: var(--gold); line-height: 1; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 8mm; }
+</style>
+</head>
+<body>
+
+<!-- 1. Portada -->
+<section class="page dark">
+  <div class="frame"></div>
+  <div class="kicker">Guía gratis · Chef Joaquín</div>
+  <h1>Tu primer<br>yate</h1>
+  <div class="sub">Los primeros pasos reales para trabajar como chef en superyates de lujo</div>
+  <div class="foot"><span>Joaquín Saggese · Yacht &amp; Private Chef</span><span>Edición 2026</span></div>
+</section>
+
+<!-- 2. Historia -->
+<section class="page">
+  <div class="kicker">Antes de empezar</div>
+  <h2>Me rechazaron 22 veces.</h2>
+  <p class="lead">Llegué a Mallorca desde Mar del Plata con 19 años. Hice 22 entrevistas y no me contrataron en ninguna. En la número 23 me dieron trabajo haciendo desayunos en un hotel.</p>
+  <p>Ahorré para pagarme la escuela de hostelería y la tuve que dejar cuando el COVID cerró todo y no la podía seguir pagando. Seguí igual: Zuma en Madrid, Cap Rocat, Maybourne Riviera, National Chef de DO &amp; CO para el FC Bayern Múnich. Y después, superyates por el Mediterráneo, el Mar Rojo y Medio Oriente, cocinando para algunas de las personas más ricas del mundo.</p>
+  <div class="quote">No llegué por suerte. Llegué porque nunca acepté que mi techo era una cocina normal.</div>
+  <p>Si hoy cobrás menos de 2.200 al mes, hacés turnos partidos de 12 horas y no ves salida, esta guía es para vos. No es todo lo que necesitás saber, pero es por dónde empezar sin perder plata ni tiempo.</p>
+  <p><strong>— Joaquín</strong></p>
+  <div class="foot"><span>Tu primer yate</span><span>2</span></div>
+</section>
+
+<!-- 3. Lo que se gana -->
+<section class="page">
+  <div class="kicker">Paso 1 · Entendé el juego</div>
+  <h2>Cuánto gana un chef de yate</h2>
+  <p>Sueldos mensuales orientativos según guías de agencias de tripulación 2025-2026. A bordo no pagás alquiler ni comida: casi todo es ahorro.</p>
+  <table>
+    <tr><th>Puesto</th><th style="text-align:right">€ / mes</th></tr>
+    <tr><td>Sous chef</td><td class="n">4.000 – 6.000</td></tr>
+    <tr><td>Sole chef, yate de menos de 30 m</td><td class="n">4.500 – 6.000</td></tr>
+    <tr><td>Sole chef, 30 – 40 m</td><td class="n">5.000 – 7.500</td></tr>
+    <tr><td>Chef, 40 – 60 m</td><td class="n">6.000 – 9.000</td></tr>
+    <tr><td>Head chef, más de 60 m</td><td class="n">7.000 – 14.000</td></tr>
+  </table>
+  <div class="cols" style="margin-top:8mm">
+    <div><div class="big">≈6.000</div><p>superyates en el mundo</p></div>
+    <div><div class="big">≈70.000</div><p>personas trabajando a bordo</p></div>
+  </div>
+  <p class="note">Fuentes: guías salariales de YPI Crew, Quay Crew y Lighthouse Careers (2025-2026); SuperYacht Times (2025). Las cifras varían por barco, experiencia y residencia fiscal. No incluyen propinas.</p>
+  <div class="foot"><span>Tu primer yate</span><span>3</span></div>
+</section>
+
+<!-- 4. Papeles -->
+<section class="page">
+  <div class="kicker">Paso 2 · Los papeles</div>
+  <h2>El mínimo para subirte a un barco</h2>
+  <ol class="steps">
+    <li><strong>Certificado médico ENG1</strong> — hacelo primero. Si no lo pasás, no tiene sentido pagar el resto. Lo hacen médicos aprobados por la MCA británica, también fuera del Reino Unido.</li>
+    <li><strong>STCW Basic Safety Training</strong> — 5 días: supervivencia, incendios, primeros auxilios y seguridad. Lo piden en todos los barcos.</li>
+    <li><strong>Higiene alimentaria Level 2</strong> — curso corto y barato.</li>
+    <li><strong>Visado B1/B2</strong> — solo si vas a buscar en EE. UU. o el Caribe. Se tramita en el consulado de tu país.</li>
+    <li><strong>Más adelante: Ship's Cook Certificate</strong> — obligatorio en yates de chárter grandes. No lo necesitás para tu primer barco.</li>
+  </ol>
+  <h3>Ventaja escondida</h3>
+  <p>Si tenés o podés tramitar un pasaporte europeo (italiano, español…), es tu mayor ventaja: te saca de encima el límite de 90 días en Europa.</p>
+  <p class="note">Requisitos vigentes 2025-2026. Cambian: confirmá siempre con el centro de formación, el consulado y una agencia antes de pagar.</p>
+  <div class="foot"><span>Tu primer yate</span><span>4</span></div>
+</section>
+
+<!-- 5. Presupuesto -->
+<section class="page">
+  <div class="kicker">Paso 3 · La plata</div>
+  <h2>Cuánto cuesta entrar</h2>
+  <table>
+    <tr><th>Concepto</th><th style="text-align:right">Costo aprox.</th></tr>
+    <tr><td>ENG1 (médico)</td><td class="n">100 – 200 €</td></tr>
+    <tr><td>STCW Basic Safety (Palma / Antibes)</td><td class="n">1.000 – 1.150 €</td></tr>
+    <tr><td>Higiene alimentaria L2</td><td class="n">50 – 150 €</td></tr>
+    <tr><td>Alojamiento mientras buscás (crew house)</td><td class="n">20 – 60 € / noche</td></tr>
+    <tr><td>Vuelo al puerto</td><td class="n">variable</td></tr>
+    <tr class="total"><td>Colchón recomendado total</td><td class="n">3.000 – 5.000 €</td></tr>
+  </table>
+  <h3>Cómo gastar menos</h3>
+  <ul class="check">
+    <li>Sacá el médico y el STCW antes de viajar (en España hay centros homologados).</li>
+    <li>Hacé daywork mientras buscás: pagan alrededor de 100 € por día y te ven trabajar.</li>
+    <li>Compartí habitación en una crew house: además conocés gente que te puede recomendar.</li>
+  </ul>
+  <div class="foot"><span>Tu primer yate</span><span>5</span></div>
+</section>
+
+<!-- 6. Checklist -->
+<section class="page">
+  <div class="kicker">Paso 4 · Checklist</div>
+  <h2>Tu primer yate en 10 pasos</h2>
+  <ul class="check">
+    <li>Decidí: ¿yate, chef privado en tierra o los dos?</li>
+    <li>Revisá tu pasaporte (y si podés tramitar uno europeo).</li>
+    <li>Sacá turno para el ENG1.</li>
+    <li>Reservá el STCW y el curso de higiene.</li>
+    <li>Armá tu CV en inglés (1-2 páginas, con foto profesional).</li>
+    <li>Convertí tu Instagram en un portfolio público con tus platos.</li>
+    <li>Prepará 3 menús de muestra en inglés.</li>
+    <li>Registrate en 5 agencias de tripulación.</li>
+    <li>Elegí tu puerto y tu fecha: Palma o Antibes en marzo-mayo, Fort Lauderdale en octubre-diciembre.</li>
+    <li>Juntá tu colchón y no vuelvas sin barco.</li>
+  </ul>
+  <div class="foot"><span>Tu primer yate</span><span>6</span></div>
+</section>
+
+<!-- 7. Errores + CTA -->
+<section class="page dark">
+  <div class="frame"></div>
+  <div class="kicker">Paso 5 · Lo que nadie te dice</div>
+  <h2>3 errores que te cuestan meses</h2>
+  <ol class="steps">
+    <li><strong>Llegar en la temporada equivocada.</strong> Buscar trabajo en el Mediterráneo en noviembre es tirar la plata.</li>
+    <li><strong>Un CV de restaurante.</strong> Al capitán no le importa tu técnica: le importa que seas estable, limpio y fácil de convivir.</li>
+    <li><strong>Un portfolio privado.</strong> Si tu Instagram es privado o está lleno de fiestas, la agencia no te llama.</li>
+  </ol>
+  <div class="cta">
+    <p><strong>¿Querés el camino completo?</strong></p>
+    <p>En <em>De la cocina al yate</em> te acompaño paso a paso: papeles, CV y portfolio revisados, agencias, entrevista, trial y cómo trabajar en una galley. Con todo lo que aprendí a golpes.</p>
+    <p>Respondé el mensaje donde recibiste esta guía con la palabra <strong>PROGRAMA</strong> y te cuento cómo entrar.</p>
+  </div>
+  <div class="foot"><span>@joaquinsaggese</span><span>7</span></div>
+</section>
+
+</body>
+</html>

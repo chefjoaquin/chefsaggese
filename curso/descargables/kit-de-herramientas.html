@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Kit de herramientas — De la cocina al yate</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,500&family=Inter:wght@400;500;600;700&display=swap');
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+:root { --ink:#0b0b0c; --gold:#c9a24d; --cream:#f4efe6; --muted:#5d5a55; }
+body { font-family: Inter, sans-serif; color: var(--ink); font-size: 11.5pt; line-height: 1.55; }
+.page { width: 210mm; height: 297mm; padding: 22mm 20mm; position: relative; page-break-after: always; overflow: hidden; }
+.dark { background: var(--ink); color: var(--cream); }
+.kicker { font-size: 9pt; letter-spacing: .3em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
+h1 { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 54pt; line-height: 1.02; margin-top: 70mm; }
+h2 { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 26pt; line-height: 1.1; margin: 6mm 0 6mm; }
+h3 { font-size: 12pt; font-weight: 700; margin: 6mm 0 2mm; }
+.sub { font-family: 'Playfair Display', serif; font-style: italic; font-size: 18pt; color: var(--gold); margin-top: 6mm; }
+.frame { position: absolute; inset: 10mm; border: 1px solid rgba(201,162,77,.55); pointer-events: none; }
+.foot { position: absolute; left: 20mm; right: 20mm; bottom: 16mm; display: flex; justify-content: space-between; font-size: 8.5pt; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); }
+.dark .foot { color: rgba(244,239,230,.6); }
+p { margin-bottom: 3mm; }
+.lead { font-size: 13pt; }
+table { width: 100%; font-variant-numeric: lining-nums; border-collapse: collapse; margin: 4mm 0; font-size: 10.5pt; }
+th, td { text-align: left; padding: 2.4mm 3mm; border-bottom: 1px solid #e4dccb; }
+th { font-size: 8.5pt; letter-spacing: .15em; text-transform: uppercase; color: var(--muted); }
+td.n { text-align: right; white-space: nowrap; font-weight: 600; }
+tr.total td { border-top: 2px solid var(--gold); border-bottom: none; font-weight: 700; }
+.check { list-style: none; }
+.check li { padding: 2.2mm 0 2.2mm 9mm; position: relative; border-bottom: 1px dashed #e4dccb; }
+.check li::before { content: ''; position: absolute; left: 0; top: 3mm; width: 4.5mm; height: 4.5mm; border: 1.5px solid var(--gold); border-radius: 1mm; }
+.steps { counter-reset: s; list-style: none; }
+.steps li { counter-increment: s; padding: 2.5mm 0 2.5mm 12mm; position: relative; }
+.steps li::before { content: counter(s); position: absolute; left: 0; top: 1.5mm; width: 8mm; height: 8mm; border-radius: 50%; background: var(--gold); color: var(--ink); font-weight: 700; display: grid; place-items: center; font-size: 10pt; }
+.note { font-size: 9pt; color: var(--muted); margin-top: 4mm; }
+.quote { font-family: 'Playfair Display', serif; font-style: italic; font-size: 17pt; line-height: 1.35; border-left: 3px solid var(--gold); padding-left: 6mm; margin: 8mm 0; }
+.cta { margin-top: 10mm; padding: 8mm; border: 1.5px solid var(--gold); }
+.cta strong { color: var(--gold); }
+.big { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 40pt; color: var(--gold); line-height: 1; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 8mm; }
+</style>
+
+</head><body>
+<section class="page dark">
+  <div class="frame"></div>
+  <div class="kicker">De la cocina al yate · Descargables</div>
+  <h1>Kit de<br>herramientas</h1>
+  <div class="sub">Plantillas, listas y planes para tu primer barco</div>
+  <div class="foot"><span>Joaquín Saggese · Yacht &amp; Private Chef</span><span>Edición 2026</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">Índice</div>
+  <h2>Qué hay en este kit</h2>
+  <ol class="steps">
+    <li><strong>Plan de 90 días</strong> — de hoy a tu primer barco, semana a semana.</li>
+    <li><strong>Agencias y plataformas</strong> — dónde registrarte.</li>
+    <li><strong>Calendario de temporadas y puertos</strong> — cuándo y dónde ir.</li>
+    <li><strong>Menús de muestra</strong> — desayuno, almuerzo y cena en inglés.</li>
+    <li><strong>Menú de prueba (trial)</strong> — cómo diseñarlo.</li>
+    <li><strong>Preference sheet</strong> — cómo leerla y convertirla en menús.</li>
+    <li><strong>Checklist de aprovisionamiento</strong> — para 7 días de chárter.</li>
+    <li><strong>Entrevista</strong> — preguntas típicas y cómo responder.</li>
+    <li><strong>Glosario de inglés de galley.</strong></li>
+  </ol>
+  <p class="note">Archivos editables aparte: <em>Plantilla CV Yacht Chef (EN).docx</em> y <em>Presupuesto de entrada.xlsx</em>.</p>
+  <div class="foot"><span>Kit de herramientas</span><span>2</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">1 · Plan de 90 días</div>
+  <h2>De hoy a tu primer barco</h2>
+  <table>
+    <tr><th>Semanas</th><th>Objetivo</th><th>Acciones</th></tr>
+    <tr><td><strong>1-2</strong></td><td>Decidir y ordenar</td><td>Test "¿es para vos?" · revisar pasaporte · presupuesto en Excel · turno ENG1</td></tr>
+    <tr><td><strong>3-4</strong></td><td>Certificados</td><td>ENG1 · reservar STCW y higiene L2 · empezar inglés de galley (15 min/día)</td></tr>
+    <tr><td><strong>5-6</strong></td><td>CV y portfolio</td><td>CV en inglés con la plantilla · foto profesional · Instagram portfolio público con 9+ platos · 3 menús de muestra</td></tr>
+    <tr><td><strong>7-8</strong></td><td>Mercado</td><td>Registrarte en 5 agencias y 2 plataformas · pedir 2 referencias escritas · practicar entrevista en voz alta</td></tr>
+    <tr><td><strong>9-10</strong></td><td>Viaje</td><td>STCW hecho · elegir puerto y fecha según temporada · reservar crew house · visado si aplica</td></tr>
+    <tr><td><strong>11-12</strong></td><td>En el puerto</td><td>Visitar agencias en persona · dockwalk 8-10 h · daywork · networking · seguimiento diario</td></tr>
+    <tr><td><strong>13</strong></td><td>Primer barco</td><td>Trial · leer el contrato · primera semana: escuchar, ordenar, cocinar simple y perfecto</td></tr>
+  </table>
+  <p class="note">Si estás en Latinoamérica y necesitás visado, sumá el tiempo de turno consular (puede ser largo): empezá ese trámite en la semana 1.</p>
+  <div class="foot"><span>Kit de herramientas</span><span>3</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">2 · Dónde registrarte</div>
+  <h2>Agencias y plataformas</h2>
+  <table>
+    <tr><th>Nombre</th><th>Tipo</th><th>Notas</th></tr>
+    <tr><td>YPI Crew</td><td>Agencia</td><td>Antibes. Publica guías salariales anuales.</td></tr>
+    <tr><td>Quay Crew</td><td>Agencia</td><td>Fuerte en chefs; encuestas de head chefs.</td></tr>
+    <tr><td>Bluewater</td><td>Agencia + formación</td><td>Palma y Antibes. STCW y Ship's Cook.</td></tr>
+    <tr><td>Lighthouse Careers</td><td>Agencia</td><td>Yates y chef privado.</td></tr>
+    <tr><td>Wilsonhalligan</td><td>Agencia</td><td>Yates grandes.</td></tr>
+    <tr><td>Viking Recruitment</td><td>Agencia</td><td>Yates y cruceros de lujo.</td></tr>
+    <tr><td>Burgess</td><td>Broker + crew</td><td>Superyates de gran eslora.</td></tr>
+    <tr><td>Amandine Chefs</td><td>Agencia de chefs</td><td>Especializada en chefs de yate y privados.</td></tr>
+    <tr><td>Yotspot</td><td>Plataforma</td><td>Ofertas con perfil y CV online.</td></tr>
+    <tr><td>Crewbay</td><td>Plataforma</td><td>Ofertas y perfiles, gratis para tripulación.</td></tr>
+    <tr><td>Yacrew</td><td>Plataforma</td><td>Ofertas detalladas por puesto y eslora.</td></tr>
+  </table>
+  <p class="note">Registrarte en agencias es gratis para el candidato. Si alguien te cobra por "conseguirte" un barco, desconfiá.</p>
+  <div class="foot"><span>Kit de herramientas</span><span>4</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">3 · Cuándo y dónde</div>
+  <h2>Calendario de temporadas</h2>
+  <table>
+    <tr><th>Mes</th><th>Qué pasa</th><th>¿Buscar trabajo?</th></tr>
+    <tr><td>Ene – Feb</td><td>Barcos en astillero o Caribe</td><td>Palma: empieza a moverse</td></tr>
+    <tr><td><strong>Mar – May</strong></td><td>Preparación temporada Mediterráneo</td><td><strong>Mejor momento: Palma, Antibes, Barcelona</strong></td></tr>
+    <tr><td>Jun – Jul</td><td>Temporada alta Mediterráneo</td><td>Reemplazos y temporales</td></tr>
+    <tr><td>Ago</td><td>Pico de chárter</td><td>Bueno para chefs con experiencia (relevos)</td></tr>
+    <tr><td>Sep</td><td>Fin de temporada · Monaco Yacht Show</td><td>Networking</td></tr>
+    <tr><td><strong>Oct – Dic</strong></td><td>Cruce a Florida y Caribe · Fort Lauderdale Boat Show · Antigua (dic)</td><td><strong>Mejor momento: Fort Lauderdale</strong> (con B1/B2)</td></tr>
+    <tr><td>Nov – Feb</td><td>Invierno en Europa</td><td>Evitar Antibes</td></tr>
+  </table>
+  <h3>Medio Oriente y Mar Rojo</h3>
+  <p>Temporada en los meses frescos (otoño-invierno). Itinerarios de armadores privados: se consiguen más por agencia y recomendación que por dockwalk.</p>
+  <div class="foot"><span>Kit de herramientas</span><span>5</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">4 · Menús de muestra (para tu CV y portfolio)</div>
+  <h2>Sample menus</h2>
+  <div class="cols">
+    <div>
+      <h3>Breakfast · à la carte</h3>
+      <p>Seasonal fruit platter, passion fruit &amp; mint<br>Acai bowl, house granola, berries<br>Eggs your way: poached, scrambled, omelette<br>Avocado toast, sourdough, chilli &amp; lime<br>Greek yoghurt, honey, toasted nuts<br>Fresh pastries &amp; homemade bread<br>Cold-pressed green juice</p>
+      <h3>Lunch · on deck</h3>
+      <p>Burrata, heirloom tomatoes, basil oil<br>Grilled octopus, smoked paprika potatoes<br>Tuna tataki, ponzu, sesame, spring onion<br>Mediterranean salad, feta, olives, oregano<br>Lemon sorbet, fresh berries</p>
+    </div>
+    <div>
+      <h3>Dinner · four courses</h3>
+      <p><em>Amuse-bouche</em><br>Gazpacho shot, olive oil caviar</p>
+      <p><em>Starter</em><br>Sea bass ceviche, leche de tigre, sweet potato, coriander</p>
+      <p><em>Main</em><br>Slow-cooked lamb loin, smoked aubergine purée, pomegranate jus<br><span class="note">GF · Vegan option: roasted cauliflower steak, tahini, pomegranate</span></p>
+      <p><em>Dessert</em><br>Dark chocolate cremeux, olive oil, sea salt, raspberry</p>
+    </div>
+  </div>
+  <p class="note">Reglas: nombres claros, producto de temporada, versión sin gluten y vegana, ortografía en inglés revisada. Cambiá los platos por los tuyos: tienen que ser platos que sepas hacer perfectos.</p>
+  <div class="foot"><span>Kit de herramientas</span><span>6</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">5 y 6 · Trial y preferencias</div>
+  <h2>Menú de prueba</h2>
+  <ul class="check">
+    <li>Preguntá antes: cuántas personas, restricciones, presupuesto, qué equipos hay.</li>
+    <li>3 platos: uno fresco, un principal con buena cocción, un postre limpio.</li>
+    <li>Simple y perfecto &gt; complicado y arriesgado.</li>
+    <li>Tiempos: planificá a la inversa desde la hora de servicio.</li>
+    <li>Entregá la galley más limpia de lo que la encontraste.</li>
+  </ul>
+  <h2 style="font-size:20pt;margin-top:8mm">Preference sheet → menú</h2>
+  <table>
+    <tr><th>Dato de la hoja</th><th>Qué hacés</th></tr>
+    <tr><td>Alergias / dietas</td><td>Lista roja pegada en la galley · versión alternativa de cada plato</td></tr>
+    <tr><td>Horarios de comida</td><td>Plan diario con la chief stew</td></tr>
+    <tr><td>Gustos y "no me gusta"</td><td>Menú de 7 días que los respete y sorprenda</td></tr>
+    <tr><td>Niños</td><td>Menú propio, horarios propios</td></tr>
+    <tr><td>Celebraciones</td><td>Torta, menú especial, coordinar decoración con interior</td></tr>
+    <tr><td>Lo que NO dice</td><td>Preguntarlo al chief stew / broker antes del embarque</td></tr>
+  </table>
+  <div class="foot"><span>Kit de herramientas</span><span>7</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">7 · Aprovisionamiento</div>
+  <h2>Checklist para 7 días de chárter</h2>
+  <div class="cols">
+    <ul class="check">
+      <li>Menú de 7 días aprobado</li>
+      <li>Cantidades por persona y comida (+10%)</li>
+      <li>Fresco: comprar para 3-4 días, reponer en puerto</li>
+      <li>Proteínas: porcionar, envasar al vacío, etiquetar</li>
+      <li>Despensa: aceites, especias, harinas, arroces</li>
+      <li>Panadería y pastelería base</li>
+      <li>Dietas especiales: productos separados</li>
+      <li>Crew food: plan semanal aparte</li>
+    </ul>
+    <ul class="check">
+      <li>Proveedores validados en cada puerto</li>
+      <li>Itinerario: ¿dónde podés comprar?</li>
+      <li>Espacio de cámara y freezer revisado</li>
+      <li>Etiquetado FIFO con fecha</li>
+      <li>Recibos guardados y planilla de gastos</li>
+      <li>Presupuesto informado al capitán</li>
+      <li>Plan B si falta un producto</li>
+      <li>Inventario al final de cada día</li>
+    </ul>
+  </div>
+  <div class="foot"><span>Kit de herramientas</span><span>8</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">8 · Entrevista</div>
+  <h2>Preguntas típicas</h2>
+  <table>
+    <tr><th>Pregunta</th><th>Qué quieren escuchar</th></tr>
+    <tr><td><em>Why yachting?</em></td><td>Compromiso a largo plazo, no "quiero viajar".</td></tr>
+    <tr><td><em>A guest changes the menu 30 minutes before service. What do you do?</em></td><td>Calma, plan B, comunicación con interior. Un ejemplo real.</td></tr>
+    <tr><td><em>How do you plan provisioning for a 7-day charter?</em></td><td>Preference sheet → menú → lista → proveedores → presupuesto.</td></tr>
+    <tr><td><em>How do you get along with other crew in small spaces?</em></td><td>Respeto, orden, sin chismes, conflictos en privado.</td></tr>
+    <tr><td><em>Dietary experience?</em></td><td>Ejemplos concretos: halal, vegano, sin gluten, alergias.</td></tr>
+    <tr><td><em>Where do you see yourself in 3 years?</em></td><td>Creciendo en la industria (sole → head chef).</td></tr>
+  </table>
+  <h3>Presentación de 30 segundos</h3>
+  <p><em>"I'm [name], a [nationality] chef with [X] years in [luxury hotels / fine dining]. I specialise in [Mediterranean and healthy] cuisine. I'm calm under pressure, very organised and I enjoy cooking for the crew as much as for guests. I'm STCW and ENG1 certified and available from [date]."</em></p>
+  <div class="foot"><span>Kit de herramientas</span><span>9</span></div>
+</section>
+
+<section class="page">
+  <div class="kicker">9 · Glosario</div>
+  <h2>Inglés de galley</h2>
+  <div class="cols">
+    <table>
+      <tr><td>Galley</td><td>Cocina</td></tr>
+      <tr><td>Crew mess</td><td>Comedor tripulación</td></tr>
+      <tr><td>Bow / Stern</td><td>Proa / Popa</td></tr>
+      <tr><td>Port / Starboard</td><td>Babor / Estribor</td></tr>
+      <tr><td>Aft deck</td><td>Cubierta de popa</td></tr>
+      <tr><td>Sun deck</td><td>Solárium</td></tr>
+      <tr><td>Tender</td><td>Lancha auxiliar</td></tr>
+      <tr><td>Provisioning</td><td>Aprovisionamiento</td></tr>
+      <tr><td>Preference sheet</td><td>Hoja de preferencias</td></tr>
+      <tr><td>Charter / Owner trip</td><td>Chárter / Viaje del dueño</td></tr>
+    </table>
+    <table>
+      <tr><td>Chief stew</td><td>Jefa/e de interior</td></tr>
+      <tr><td>Rotation</td><td>Rotación</td></tr>
+      <tr><td>Daywork</td><td>Trabajo por día</td></tr>
+      <tr><td>Dockwalking</td><td>Recorrer el muelle con CV</td></tr>
+      <tr><td>Shore leave</td><td>Día libre en tierra</td></tr>
+      <tr><td>Yard period / Refit</td><td>Astillero</td></tr>
+      <tr><td>Greenie</td><td>Novato</td></tr>
+      <tr><td>Trial</td><td>Período de prueba</td></tr>
+      <tr><td>Tip</td><td>Propina</td></tr>
+      <tr><td>Mise en place</td><td>Mise en place 😉</td></tr>
+    </table>
+  </div>
+  <h3>Frases del día a día</h3>
+  <p><em>Do you have any allergies or dietary requirements?</em> · <em>Lunch will be served on the aft deck at 1 pm.</em> · <em>We're running low on fresh produce; I'd like to provision in the next port.</em> · <em>Crew lunch is ready!</em></p>
+  <div class="foot"><span>Kit de herramientas</span><span>10</span></div>
+</section>
+
+</body></html>

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>¡Bienvenido a bordo! — De la cocina al yate</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,800;1,500&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+/* CONFIG: replace HOTMART_AREA_MIEMBROS, WHATSAPP_COMUNIDAD and FECHA_LLAMADA */
+:root{--ink:#0b0b0c;--gold:#c9a24d;--cream:#f4efe6;--muted:#a49e93}
+*{box-sizing:border-box;margin:0;padding:0}
+body{min-height:100vh;background:var(--ink);color:var(--cream);font-family:Inter,system-ui,sans-serif;font-size:17px;line-height:1.6;padding:70px 16px;
+ background-image:radial-gradient(ellipse 80% 50% at 80% 110%,rgba(201,162,77,.25),transparent 60%)}
+main{max-width:640px;margin:0 auto}
+.kicker{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);font-weight:600}
+h1{font-family:'Playfair Display',serif;font-weight:800;font-size:clamp(38px,7vw,58px);line-height:1.05;margin:14px 0 18px}
+.it{font-family:'Playfair Display',serif;font-style:italic;font-weight:500;color:var(--gold)}
+ol{list-style:none;counter-reset:s;margin:34px 0}
+li{counter-increment:s;position:relative;padding:16px 0 16px 56px;border-bottom:1px solid rgba(201,162,77,.3)}
+li::before{content:counter(s);position:absolute;left:0;top:14px;width:36px;height:36px;border-radius:50%;background:var(--gold);color:var(--ink);font-weight:700;display:grid;place-items:center}
+a{color:var(--gold);font-weight:600}
+.sig{font-family:'Playfair Display',serif;font-style:italic;font-size:22px;margin-top:30px}
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">Pago confirmado</div>
+  <h1>Bienvenido a bordo. <span class="it">Sin plan B.</span></h1>
+  <p>Acabás de tomar la decisión que la mayoría nunca toma. Desde hoy no estás solo en el camino.</p>
+  <ol>
+    <li><strong>Revisá tu email.</strong> Hotmart te mandó el acceso. Entrá acá: <a href="HOTMART_AREA_MIEMBROS">área de miembros</a>.</li>
+    <li><strong>Mirá el Módulo 0</strong> (20 minutos) y hacé la tarea: tu por qué, tu meta de ahorro y la fecha de tu primer barco.</li>
+    <li><strong>Sumate al grupo de fundadores:</strong> <a href="WHATSAPP_COMUNIDAD">entrar al grupo</a>.</li>
+    <li><strong>Agendá la primera llamada en vivo:</strong> FECHA_LLAMADA. Traé tus dudas y tu CV.</li>
+  </ol>
+  <p>Cualquier cosa, respondé el email de bienvenida: lo leo yo.</p>
+  <p class="sig">— Joaquín</p>
+</main>
+</body>
+</html>

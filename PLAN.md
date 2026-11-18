@@ -18,11 +18,11 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - [x] 1.4 Bio de Instagram (propuesta en `marca/instagram-auditoria.md`) + destacadas + portfolio para agencias/capitanes
 
 ### Fase 2 — Sistema de contenido
-- [ ] 2.1 Banco de 30 ideas de guiones (pilares: cocina de autor, vida a bordo, historia, carrera/oficio, membresía)
+- [x] 2.1 30 guiones (`marca/guiones-30-dias.md`) (pilares: cocina de autor, vida a bordo, historia, carrera/oficio, membresía)
 - [ ] 2.2 Plantilla de edición de reels (gancho, subtítulos, cierre con CTA)
-- [ ] 2.3 Plantilla de carruseles
+- [x] 2.3 Plantilla y generador de carruseles (`tools/carrusel.cjs`) + 2 carruseles listos
 - [ ] 2.4 Primera tanda de grabación (1 día = 1-2 semanas de contenido)
-- [ ] 2.5 Calendario de los primeros 30 días
+- [x] 2.5 Calendario de los primeros 30 días
 
 ### Fase 3 — Programa (USD, Hotmart)
 - [x] 3.1 Playbook completo con guiones (`curso/`) + carátulas
@@ -33,7 +33,7 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - [ ] 3.5 Lanzamiento: palabra clave "YATE" → DM → página de venta
 
 ## Paso actual
-**Configurar herramientas y grabar.** Ver `funnel/lanzamiento.md`. Joaquín: Hotmart, dominio, ManyChat, email, grabar módulos 0-2. Claude: descargables restantes, página CV/portfolio en inglés, 30 guiones de reels.
+**Configurar herramientas y grabar.** Ver `funnel/lanzamiento.md`. Joaquín: Hotmart, dominio, ManyChat, email, grabar módulos 0-2. Claude: listo todo lo que no depende de material de Joaquín; siguiente: editar videos y carruseles con fotos reales.
 
 ## Pendientes de Joaquín
 - Revisar el playbook y agregar historias donde dice [HISTORIA DE JOAQUÍN]
@@ -49,3 +49,4 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - 2026-11-18: Moneda USD. Joaquín propone $97/mes o 3 × $197; recomendación: 3 × $197 / $497 contado en Hotmart. Prioridad: contenido diario sobre estética.
 - 2026-11-18: Precio aprobado: $297 fundadores → $497. Regla del funnel: vender el dolor, no el producto (`marca/dolor-y-mensajes.md`).
 - 2026-11-18: Creados playbook (`curso/`), carátulas, guía gratis PDF, página de venta (`web/`), ManyChat y emails (`funnel/`). Dolores: <2.200/mes, <10.000 €/año, familia, viajes, valoración.
+- 2026-11-18: 30 guiones + calendario, 2 carruseles, descargables (CV Word, presupuesto Excel, kit PDF), web completa (links, chef EN, gracias), guía Hotmart.

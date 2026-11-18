@@ -10,7 +10,7 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 ## Fases
 
 ### Fase 1 — Fundamentos de marca (ahora)
-- [ ] 1.1 Tu historia: trayectoria, el momento que te cambió la carrera, números que quieras mostrar
+- [x] 1.1 Tu historia: trayectoria, el momento que te cambió la carrera, números que quieras mostrar
 - [ ] 1.2 Manifiesto de marca: porqué, para qué, a quién ayudamos, promesa
 - [ ] 1.3 Identidad visual: colores, tipografías, estilo de subtítulos, portadas
 - [ ] 1.4 Bio de Instagram + destacadas
@@ -33,7 +33,7 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - [ ] 4.3 Mentoría 1-1 (1.200-2.500 €)
 
 ## Paso actual
-**1.1 Tu historia** — ver preguntas en el chat.
+**1.2 Manifiesto** — borrador v1 en `marca/manifiesto.md`, esperando feedback de Joaquín.
 
 ## Pendientes de Joaquín
 - LinkedIn en PDF (Perfil → Más → Guardar en PDF)
@@ -42,3 +42,4 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 
 ## Registro
 - 2026-11-18: Investigación de mercado terminada. Decisión: eje en formación/mentoría (A), chef privado como base (B), consultoría más adelante (C).
+- 2026-11-18: Historia recibida (`marca/historia.md`). Manifiesto v1. Propuesta de historia firma: "Entrevista 23".

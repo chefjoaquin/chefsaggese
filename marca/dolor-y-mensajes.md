@@ -6,7 +6,7 @@
 Tiene 20-32 años, cocina en un restaurante u hotel de España o Latinoamérica. Es bueno, trabaja mucho y siente que no avanza.
 
 ## Dolores (lo que vive hoy)
-1. **Plata:** cobra poco para lo que trabaja (en LatAm, en moneda que se devalúa).
+1. **Plata:** cobra menos de 2.200 al mes y ahorra menos de 10.000 € al año (en LatAm, en moneda que se devalúa). No puede ayudar a su familia como quisiera.
 2. **Tiempo:** turnos partidos, 12 horas, sin fines de semana, sin vida.
 3. **Techo:** no ve a dónde llegar. "¿Voy a estar 20 años en esta cocina?"
 4. **Reconocimiento:** el jefe no lo valora; nadie ve lo que hace.
@@ -16,6 +16,8 @@ Tiene 20-32 años, cocina en un restaurante u hotel de España o Latinoamérica.
 
 ## Deseos (lo que quiere sentir)
 - Ganar en euros/dólares y ahorrar de verdad (€4.500-9.000/mes, con casa y comida pagas).
+- Ayudar a su familia.
+- Trabajar para famosos y personas ricas que valoran su trabajo y su esfuerzo.
 - Conocer el mundo cocinando: Mónaco, Ibiza, Grecia, Mar Rojo.
 - Que lo valoren y cocinar al nivel más alto.
 - Tener un plan claro y alguien que ya lo hizo al lado.
@@ -46,7 +48,9 @@ Tiene 20-32 años, cocina en un restaurante u hotel de España o Latinoamérica.
 - "De dejar la escuela de cocina por no poder pagarla a cocinar en superyates. Este es el camino."
 
 ## Ganchos para reels (primeros 2 segundos)
-- "Si sos cocinero y ganás menos de 1.500 al mes, mirá esto."
+- "Si sos cocinero y ganás menos de 2.200 al mes, mirá esto."
+- "Si ahorrás menos de 10.000 € al año cocinando, esto te interesa."
+- "Cociné para gente que nunca vas a ver en una revista. Y me agradecieron cada plato."
 - "Me rechazaron en 22 entrevistas. Hoy cocino en superyates."
 - "Lo que gana un chef de yate (y nadie te dice)."
 - "3 errores que hacen que ninguna agencia de yates te llame."

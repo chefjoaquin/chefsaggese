@@ -4,7 +4,7 @@
 
 ## Estrategia (decidida por Joaquín, 2026-11-18)
 1. **Marca de chef con autoridad (motor principal).** El contenido muestra al chef: qué tan bueno es, qué cocina, cómo trabaja, cómo es. Objetivo: que clientes privados, agencias de tripulación y capitanes de todo el mundo lo quieran contratar. Trabajo asegurado en lo que la IA no reemplaza: chef de yates y chef privado.
-2. **Programa digital para cocineros (ingreso escalable).** Cursos grabados + descargables sobre cómo trabajar en yates de lujo. **USD.** Propuesta: 3 × $197 o $497 contado, en Hotmart. Ver `marca/oferta-y-funnel.md`.
+2. **Programa digital para cocineros (ingreso escalable).** Cursos grabados + descargables sobre cómo trabajar en yates de lujo. **USD.** Lanzamiento $297 (3 × $109) para 20 fundadores; luego $497 (3 × $187). Hotmart. Ver `marca/oferta-y-funnel.md`.
 3. Consultoría: aparcada.
 
 Base: `reports/Mercado Chef Joaquín modelos negocio.md`
@@ -32,11 +32,10 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - [ ] 3.5 Lanzamiento: palabra clave "YATE" → DM → página de venta
 
 ## Paso actual
-**Empezar a publicar.** Joaquín manda los primeros videos → edición con plantilla negro/dorado/blanco + texto del post. En paralelo: guía gratis "Tu primer yate" y página de venta.
+**Empezar a publicar.** Joaquín manda los primeros videos → edición con plantilla negro/dorado/blanco + texto del post. En paralelo: guía gratis "Tu primer yate" (siguiente entregable de Claude) y página de venta.
 
 ## Pendientes de Joaquín
 - Mandar los primeros videos crudos (verticales)
-- Confirmar precio: 3 × $197 / $497 contado
 - Crear cuentas en Hotmart y ManyChat (cuando lleguemos a ese paso)
 
 ## Registro
@@ -46,3 +45,4 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - 2026-11-18: **Decisión de Joaquín:** contenido centrado en el chef para conseguir contratos (clientes, agencias, capitanes) + membresía de 97/mes para cocineros. Consultoría aparcada.
 - 2026-11-18: Recibidos perfil de Instagram y LinkedIn. Manifiesto v2 y auditoría de Instagram.
 - 2026-11-18: Moneda USD. Joaquín propone $97/mes o 3 × $197; recomendación: 3 × $197 / $497 contado en Hotmart. Prioridad: contenido diario sobre estética.
+- 2026-11-18: Precio aprobado: $297 fundadores → $497. Regla del funnel: vender el dolor, no el producto (`marca/dolor-y-mensajes.md`).

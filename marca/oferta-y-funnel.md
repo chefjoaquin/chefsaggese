@@ -4,12 +4,14 @@
 **Programa:** De la cocina al yate (nombre provisorio)
 **Moneda:** USD (público mayoritario latinoamericano)
 
-| Opción de pago | Precio | Total |
+| Momento | Contado | 3 cuotas |
 |---|---|---|
-| 3 cuotas | 3 × $197 | $591 |
-| Pago único | $497 | $497 (ahorra $94) |
+| Lanzamiento "fundadores" (primeros 20, + 1 llamada grupal en vivo al mes) | $297 | 3 × $109 |
+| Precio final | $497 | 3 × $187 |
 
-**Por qué programa en cuotas y no suscripción de $97/mes:** el curso es un camino con principio y fin (papeles → CV → portfolio → agencias → primer barco). En una suscripción la gente consume el curso y se da de baja al mes 2, y obliga a producir contenido nuevo cada mes. Con cuotas cobrás más por alumno ($591 vs ~$194 promedio estimado de una suscripción que dura 2 meses) con el mismo esfuerzo de grabación. *Estimación propia, a validar.*
+**Por qué:** competencia en español €350-998 (Chef to Yacht €497); referente en inglés $997. El curso se paga con unos días del primer sueldo a bordo. Precio de fundador para conseguir los primeros testimonios. Programa con cuotas en vez de suscripción: el curso tiene principio y fin.
+
+**Mensaje del funnel:** se vende el dolor y el deseo, no el producto. Ver `marca/dolor-y-mensajes.md`.
 
 **Más adelante (opcional):** "Club" de $27-47/mes para egresados: ofertas seleccionadas, revisión de CV, una llamada en vivo al mes.
 

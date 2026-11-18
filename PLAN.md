@@ -38,7 +38,6 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 ## Pendientes de Joaquín
 - LinkedIn en PDF (Perfil → Más → Guardar en PDF)
 - Capturas de Instagram: perfil + estadísticas últimos 30 días
-- Reconectar GitHub (https://claude.ai/connect-github) para poder subir el trabajo
 
 ## Registro
 - 2026-11-18: Investigación de mercado terminada. Decisión: eje en formación/mentoría (A), chef privado como base (B), consultoría más adelante (C).

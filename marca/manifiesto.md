@@ -1,33 +1,43 @@
-# Manifiesto de marca — Chef Joaquín (borrador v1)
+# Manifiesto de marca — Chef Joaquín (v2)
 
-## Una frase
-**Ayudo a cocineros hispanohablantes a salir de la cocina de siempre y construir una carrera en yates de lujo y cocina privada, con la cabeza, la disciplina y las herramientas que nadie te enseña en la escuela.**
+## Posicionamiento en una frase
+**Chef de superyates y chef privado: cocina de lujo, saludable e internacional, ejecutada con calma bajo presión.**
 
-## Porqué (lo que creo)
-Me rechazaron 22 veces. La 23 me contrataron para hacer desayunos en un hotel de Mallorca. Hoy cocino para algunas de las personas más ricas del mundo en yates por todo el Mediterráneo y Medio Oriente.
+En inglés (para agencias y capitanes): *Luxury healthy international cuisine. Calm execution. Consistency over theatrics.*
 
-No llegué por talento. Llegué porque nunca acepté que mi techo era un restaurante normal, y porque entendí que la disciplina, la resiliencia y el control de uno mismo valen tanto como una buena técnica.
+## Los dos públicos
 
-## Para qué (lo que hago)
-Para que el próximo cocinero que está en la entrevista 3, la 10 o la 22 no tenga que adivinar el camino. Le doy el mapa (cursos, papeles, CV, portfolio, cómo entrar) y lo acompaño en lo que de verdad decide si llega: la cabeza.
+| | Contratantes (motor principal) | Cocineros (membresía) |
+|---|---|---|
+| Quiénes | Capitanes, agencias de tripulación, armadores, clientes HNWI, villas | Cocineros hispanohablantes que quieren entrar a yates o chef privado |
+| Qué quieren ver | Nivel, consistencia, criterio, calma, buen trato con la tripulación | El camino real, que se puede, cómo hacerlo |
+| Qué les prometemos | Estabilidad: el chef que no da problemas y sube la experiencia del huésped | De la cocina de siempre al mundo, sin plan B |
+| Llamado a la acción | "Disponible para la temporada" / portfolio | Comentá "YATE" |
 
-## A quién
-Cocineros y chefs jóvenes de habla hispana (España y Latinoamérica) que ya cocinan, sienten que su carrera está estancada y quieren trabajar en yates, como chef privado o en el nivel más alto.
+## Porqué
+De dejar la escuela de cocina por no poder pagarla, a cocinar en superyates de lujo por Europa, el Mar Rojo y Medio Oriente. 22 entrevistas fallidas; la 23 me contrataron para hacer desayunos en Mallorca. No hay techo en la carrera gastronómica si trabajás tu persona, tu oficio y tus relaciones.
 
-## El enemigo
-La creencia de que un cocinero está condenado a una cocina, un sueldo bajo y un horario infinito. Y el "plan B" que te deja a mitad de camino.
+## Para qué
+- Para que los mejores barcos y clientes del mundo sepan que existe un chef que trae nivel y calma.
+- Para que el próximo cocinero no tenga que adivinar el camino.
 
-## La promesa
-De la cocina de siempre al mundo. Sin atajos, sin humo: con un camino claro y alguien que ya lo recorrió.
+## Diferencial (lo que dicen de mí)
+1. **Amabilidad + talento.** Un chef que suma a la tripulación, no que la complica.
+2. **Escuela de lujo:** Zuma, Cap Rocat, Maybourne Riviera, DO & CO (FC Bayern Múnich), estándares Michelin, consultoría con un chef 3 estrellas Michelin a bordo del S/Y Imladris.
+3. **Operación:** aprovisionamiento en cualquier puerto, control de costos, adaptación a huéspedes de todo el mundo, coordinación con capitán e interior.
 
 ## Valores
 1. **Sin plan B.** Compromiso total.
-2. **Crecer siempre.** Trabajar para los mejores hasta ser uno de ellos.
-3. **Persona y profesional son lo mismo.** Fe, disciplina y buena gente.
-4. **Verdad.** Mostrar la realidad del oficio, lo bueno y lo duro.
+2. **Calma bajo presión.** Sin drama, con soluciones.
+3. **Crecer siempre.** Trabajar para los mejores hasta ser uno de ellos.
+4. **Persona y profesional son lo mismo.** Amabilidad, fe y disciplina.
 
-## Historia firma: "Entrevista 23"
-La cifra que resume la marca. Se usa en reels, bio, nombre del programa o de la comunidad (propuesta).
+## Cocina (3 palabras)
+**Lujo · Saludable · Internacional**
+
+## Historias firma
+- "Entrevista 23"
+- "De dejar la escuela a los superyates"
 
 ## Tono
-Cercano, argentino pero entendible para toda Hispanoamérica, directo, exigente y cálido. Habla de "vos" a "vos". Nada de lujo ostentoso: el lujo es el escenario, el protagonista es el esfuerzo.
+Cercano y argentino en español; sobrio y profesional en inglés. Nada de lujo ostentoso: el lujo es el escenario; el protagonista es el trabajo bien hecho.

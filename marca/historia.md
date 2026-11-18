@@ -33,9 +33,22 @@ No fue una oportunidad puntual: fue aceptar que **siempre había que seguir crec
 - Que el esfuerzo tiene que ser enorme y sin plan B.
 - Que las creencias limitantes son lo que frena la carrera, no el talento.
 
+## Perfil profesional (LinkedIn)
+- Yacht chef especializado en motor y vela de 24-55 m; objetivo: motor yachts de 45-55 m+ y programas de chárter.
+- Hoteles y marcas de lujo: Zuma, Cap Rocat, Maybourne Riviera; estándares Michelin.
+- S/Y Imladris: consultoría culinaria con un chef 3 estrellas Michelin a bordo.
+- Programas de viaje HNWI, itinerarios Mediterráneo, logística de aprovisionamiento en Mar Rojo.
+- Fortalezas: aprovisionamiento e inventario, control de costos, validación de proveedores en puerto, huéspedes multiculturales, coordinación con capitán e interior, consistencia en chárter, mentalidad sin drama.
+- Frase: *"What I bring to a vessel is stability."*
+- LinkedIn: https://www.linkedin.com/in/private-yacht-chef-joaquin-saggese-a93b6b27b
+
+## Cocina y diferencial (Joaquín)
+- Cocina: lujo, saludable, internacional.
+- Diferencial: amabilidad + talento culinario.
+- Quiere trabajar en yates y como chef privado, a nivel internacional.
+
 ## Pendiente de confirmar
 - Años aproximados de cada etapa.
-- Tamaño de los yates y puesto (sole chef, head chef…).
 
 ## Posición de Joaquín (2026-11-18)
 - No quiere ser un "vendecursos".

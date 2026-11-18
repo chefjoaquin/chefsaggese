@@ -13,9 +13,9 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 
 ### Fase 1 — Fundamentos de marca (ahora)
 - [x] 1.1 Tu historia (`marca/historia.md`)
-- [ ] 1.2 Manifiesto v2: dos públicos (contratantes y cocineros)
+- [x] 1.2 Manifiesto v2 (`marca/manifiesto.md`) — pendiente OK final
 - [ ] 1.3 Identidad visual: colores, tipografías, estilo de subtítulos, portadas
-- [ ] 1.4 Bio de Instagram + destacadas + portfolio para agencias/capitanes
+- [~] 1.4 Bio de Instagram (propuesta en `marca/instagram-auditoria.md`) + destacadas + portfolio para agencias/capitanes
 
 ### Fase 2 — Sistema de contenido
 - [ ] 2.1 Banco de 30 ideas de guiones (pilares: cocina de autor, vida a bordo, historia, carrera/oficio, membresía)
@@ -32,11 +32,10 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - [ ] 3.5 Lanzamiento: palabra clave "YATE" → DM → página de venta
 
 ## Paso actual
-**1.2 Manifiesto v2** — adaptarlo a la nueva estrategia.
+**1.3 Identidad visual** — después de que Joaquín apruebe manifiesto y bio.
 
 ## Pendientes de Joaquín
-- LinkedIn en PDF (Perfil → Más → Guardar en PDF)
-- Capturas de Instagram: perfil + estadísticas últimos 30 días
+- Aprobar manifiesto v2 y bio
 - Definir moneda de la membresía (USD o EUR)
 
 ## Registro
@@ -44,3 +43,4 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - 2026-11-18: Historia recibida (`marca/historia.md`). Manifiesto v1. Propuesta de historia firma: "Entrevista 23".
 - 2026-11-18: Datos confirmados: Zuma; National Chef de DO & CO para FC Bayern Múnich.
 - 2026-11-18: **Decisión de Joaquín:** contenido centrado en el chef para conseguir contratos (clientes, agencias, capitanes) + membresía de 97/mes para cocineros. Consultoría aparcada.
+- 2026-11-18: Recibidos perfil de Instagram y LinkedIn. Manifiesto v2 y auditoría de Instagram.

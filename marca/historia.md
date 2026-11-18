@@ -10,10 +10,15 @@ Respuestas de Joaquín, ordenadas. Esta es la materia prima de todos los guiones
 
 ## Camino
 - Empieza a viajar trabajando de cocinero.
-- Madrid: restaurantes top de cocina mediterránea y japonesa, marcas internacionales (Suma — *confirmar nombre*).
-- España → Francia → Alemania: national chef en Múnich (Bayern — *confirmar rol exacto*).
+- Madrid: restaurantes top de cocina mediterránea y japonesa, Zuma (cocina japonesa, marca internacional).
+- España → Francia → Alemania: **National Chef de DO & CO para el FC Bayern Múnich**. Catering premium para VIPs en partidos, bancos y hoteles; chef "de la marca" que viaja a grandes eventos (Champions, básquet, NFL, recitales).
 - Yates de lujo: Portugal, Mallorca, Ibiza, Cannes, Antibes, Mónaco, Italia, Grecia, Egipto, Arabia Saudita.
 - Clientes: algunas de las personas más ricas del planeta.
+
+## Frase de historia (Joaquín)
+**De dejar la escuela de cocina por no poder pagarla, a cocinar en superyates de lujo por toda Europa y Medio Oriente.**
+
+No hay techo en la carrera gastronómica si trabajás tu persona, tu oficio, tu marca personal y tus relaciones.
 
 ## El giro
 No fue una oportunidad puntual: fue aceptar que **siempre había que seguir creciendo**. Trabajar para los mejores chefs para convertirse en uno de ellos, crear un estilo propio y llevarlo por el mundo.
@@ -29,6 +34,10 @@ No fue una oportunidad puntual: fue aceptar que **siempre había que seguir crec
 - Que las creencias limitantes son lo que frena la carrera, no el talento.
 
 ## Pendiente de confirmar
-- Nombre exacto de "Suma" y del rol en Múnich/Bayern.
 - Años aproximados de cada etapa.
 - Tamaño de los yates y puesto (sole chef, head chef…).
+
+## Posición de Joaquín (2026-11-18)
+- No quiere ser un "vendecursos".
+- Le interesa: comunidad tipo Skool con ofertas de trabajo de chef privado; y consultoría para que restaurantes sean **más creativos y, gracias a eso, más rentables**.
+- Objetivo: un producto principal que escale a 20.000-30.000 €/mes, aunque sea para clientes ricos y no para muchos cocineros.

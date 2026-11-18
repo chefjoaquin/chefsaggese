@@ -25,18 +25,20 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - [ ] 2.5 Calendario de los primeros 30 días
 
 ### Fase 3 — Programa (USD, Hotmart)
-- [ ] 3.1 Temario del curso (módulos y lecciones)
+- [x] 3.1 Playbook completo con guiones (`curso/`) + carátulas
 - [ ] 3.2 Qué hay de nuevo cada mes (para que no se den de baja)
 - [ ] 3.3 Plataforma y cobro (Skool / Hotmart / Stan)
 - [ ] 3.4 Grabación de los módulos
+- [x] 3.4b Guía gratis PDF, página de venta (`web/`), ManyChat y emails (`funnel/`)
 - [ ] 3.5 Lanzamiento: palabra clave "YATE" → DM → página de venta
 
 ## Paso actual
-**Empezar a publicar.** Joaquín manda los primeros videos → edición con plantilla negro/dorado/blanco + texto del post. En paralelo: guía gratis "Tu primer yate" (siguiente entregable de Claude) y página de venta.
+**Configurar herramientas y grabar.** Ver `funnel/lanzamiento.md`. Joaquín: Hotmart, dominio, ManyChat, email, grabar módulos 0-2. Claude: descargables restantes, página CV/portfolio en inglés, 30 guiones de reels.
 
 ## Pendientes de Joaquín
-- Mandar los primeros videos crudos (verticales)
-- Crear cuentas en Hotmart y ManyChat (cuando lleguemos a ese paso)
+- Revisar el playbook y agregar historias donde dice [HISTORIA DE JOAQUÍN]
+- Crear cuentas: Hotmart, ManyChat, MailerLite/Brevo; comprar dominio
+- Mandar videos crudos para editar
 
 ## Registro
 - 2026-11-18: Investigación de mercado terminada.
@@ -46,3 +48,4 @@ Base: `reports/Mercado Chef Joaquín modelos negocio.md`
 - 2026-11-18: Recibidos perfil de Instagram y LinkedIn. Manifiesto v2 y auditoría de Instagram.
 - 2026-11-18: Moneda USD. Joaquín propone $97/mes o 3 × $197; recomendación: 3 × $197 / $497 contado en Hotmart. Prioridad: contenido diario sobre estética.
 - 2026-11-18: Precio aprobado: $297 fundadores → $497. Regla del funnel: vender el dolor, no el producto (`marca/dolor-y-mensajes.md`).
+- 2026-11-18: Creados playbook (`curso/`), carátulas, guía gratis PDF, página de venta (`web/`), ManyChat y emails (`funnel/`). Dolores: <2.200/mes, <10.000 €/año, familia, viajes, valoración.
